@@ -1,9 +1,14 @@
 # Project Aim:
 The project focuses on building a model to detect toxic language in real-world scenarios. Utilizing a large dataset, the goal is to create a robust classification model that can identify toxic comments. The dataset is obtained using Kaggle functions, and key models like CNN-BiLSTM with attention mechanisms are implemented.
 
-# Data Exploration: Examines dataset, handles imbalanced classes, and visualizes toxicity labels.
-# Text Preprocessing: Normalizes text, removes unnecessary elements, and tokenizes comments for further analysis.
-# Embedding: Utilizes pre-trained GloVe embeddings for words in the comments to enhance model understanding.
+# Data Exploration: 
+Examines dataset, handles imbalanced classes, and visualizes toxicity labels.
+
+# Text Preprocessing: 
+Normalizes text, removes unnecessary elements, and tokenizes comments for further analysis.
+
+# Embedding: 
+Utilizes pre-trained GloVe embeddings for words in the comments to enhance model understanding.
 
 # Models Used:
 ## CNN-BiLSTM Model:
